@@ -102,18 +102,18 @@
                   </p>
                   <div class="social-icons">
                     <ul>
-                  <li class="twitter" style="background-color: #f0f0f0">
-                  <a href="https://twitter.com/NotSoAudacious" target="_blank">Twitter</a>
-                  </li>
+                      <li class="twitter" style="background-color: #f0f0f0">
+                      <a href="https://twitter.com/NotSoAudacious" target="_blank">Twitter</a>
+                      </li>
 
-                  <li class="facebook" style="background-color: #f0f0f0">
-                  <a href="https://www.facebook.com/rishabhjain30" target="_blank">Facebook</a>
-                  </li>
+                     <li class="facebook" style="background-color: #f0f0f0">
+                     <a href="https://www.facebook.com/rishabhjain30" target="_blank">Facebook</a>
+                     </li>
 
-                  <li class="linkedin" style="background-color: #f0f0f0">
-                  <a href="https://in.linkedin.com/pub/rishabh-jain/b6/377/2b0" target="_blank">LinkedIN</a>
-                  </li>
-                  </ul>
+                     <li class="linkedin" style="background-color: #f0f0f0">
+                     <a href="https://in.linkedin.com/pub/rishabh-jain/b6/377/2b0" target="_blank">LinkedIN</a>
+                     </li>
+                    </ul>
                   </div>
                 </div>
                 <div id="DIV_165">
@@ -125,18 +125,18 @@
                     Student of BPIT,Currently working at SOCIALCOPS as a Data Engineer
                   </p>
                   <div class="social-icons">
-                    <ul>
-                  <li class="twitter" style="background-color: #f0f0f0">
-                  <a href="https://twitter.com/NotSoAudacious" target="_blank">Twitter</a>
-                  </li>
+                  <ul>
+                    <li class="twitter" style="background-color: #f0f0f0">
+                    <a href="https://twitter.com/NotSoAudacious" target="_blank">Twitter</a>
+                    </li>
 
-                  <li class="facebook" style="background-color: #f0f0f0">
-                  <a href="https://www.facebook.com/rishabhjain30" target="_blank">Facebook</a>
-                  </li>
+                    <li class="facebook" style="background-color: #f0f0f0">
+                    <a href="https://www.facebook.com/rishabhjain30" target="_blank">Facebook</a>
+                    </li>
 
-                  <li class="linkedin" style="background-color: #f0f0f0">
-                  <a href="https://in.linkedin.com/pub/rishabh-jain/b6/377/2b0" target="_blank">LinkedIN</a>
-                  </li>
+                    <li class="linkedin" style="background-color: #f0f0f0">
+                    <a href="https://in.linkedin.com/pub/rishabh-jain/b6/377/2b0" target="_blank">LinkedIN</a>
+                    </li>
                   </ul>
                   </div>
                 </div>
@@ -150,18 +150,18 @@
                   </p>
                   <div class="social-icons">
                     <ul>
-                  <li class="twitter" style="background-color: #f0f0f0">
-                  <a href="https://twitter.com/NotSoAudacious" target="_blank">Twitter</a>
-                  </li>
+                      <li class="twitter" style="background-color: #f0f0f0">
+                      <a href="https://twitter.com/NotSoAudacious" target="_blank">Twitter</a>
+                      </li>
 
-                  <li class="facebook" style="background-color: #f0f0f0">
-                  <a href="https://www.facebook.com/rishabhjain30" target="_blank">Facebook</a>
-                  </li>
+                      <li class="facebook" style="background-color: #f0f0f0">
+                      <a href="https://www.facebook.com/rishabhjain30" target="_blank">Facebook</a>
+                      </li>
 
-                  <li class="linkedin" style="background-color: #f0f0f0">
-                  <a href="https://in.linkedin.com/pub/rishabh-jain/b6/377/2b0" target="_blank">LinkedIN</a>
-                  </li>
-                  </ul>
+                      <li class="linkedin" style="background-color: #f0f0f0">
+                      <a href="https://in.linkedin.com/pub/rishabh-jain/b6/377/2b0" target="_blank">LinkedIN</a>
+                      </li>
+                    </ul>
                   </div>
                 </div>
               </li>
