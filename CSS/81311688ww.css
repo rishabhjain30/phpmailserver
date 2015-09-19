@@ -1,0 +1,27 @@
+@charset "utf-8";
+#Main {
+	height: 100%;
+	width: 98%;
+	margin-right: 1%;
+	margin-left: 1%;
+	padding-top: 2%;
+}
+#header {
+	width: 100%;
+}
+.pull-left {
+	width: 10%;
+	float: left;
+}
+.pull-centre {
+	width: 50%;
+	margin-left: 5%;
+	float: left;
+	padding-top: 2%;
+	height: 100%;
+}
+.pull-right {
+	width: 30%;
+	margin-right: 1%;
+	float: right;
+}
